@@ -91,9 +91,7 @@ const Header: React.FC = () => {
             </li>
           </ul>
           <div className="logo flex items-center">
-            <a href="#">
 
-            </a>
           </div>
           <ul className="flex items-center">
             <li className="text-white mx-10 my-6 relative font-semibold">
@@ -111,9 +109,7 @@ const Header: React.FC = () => {
         {/* Mobile navigation */}
         <nav className="lg:hidden flex justify-between w-full items-center py-2">
           <div className="logo flex items-center">
-            <a href="#">
-              <Image src={logo} alt="Logo" />
-            </a>
+          
           </div>
           <HiOutlineMenu
             className="text-white text-2xl cursor-pointer"
