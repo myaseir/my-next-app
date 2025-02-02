@@ -92,7 +92,7 @@ const Header: React.FC = () => {
           </ul>
           <div className="logo flex items-center">
             <a href="#">
-              <Image src={logo} alt="Logo" height={80} />
+{/*               <Image src={logo} alt="Logo" height={80} /> */}
             </a>
           </div>
           <ul className="flex items-center">
