@@ -1,6 +1,6 @@
-# Personal Portfolio - Code with Shabbir 🌐
+# Personal Portfolio - Tech Glacia 🌐
 
-Welcome to the repository for my personal portfolio website, live at [codewithshabbir.vercel.app](https://codewithshabbir.vercel.app/). This project showcases my skills, projects, and professional experience in web development.
+Welcome to the repository for my personal portfolio website, live at [yaseir.vercel.app](https://yaseir.vercel.app/). This project showcases my skills, projects, and professional experience in web development.
 
 > **Note:** This is a personal project and is not intended for public or commercial use.
 
