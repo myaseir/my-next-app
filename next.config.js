@@ -1,5 +1,9 @@
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export', // Enables static export
+  images: {
+    unoptimized: true, // Disable image optimization for static export
+  },
+};
 
-module.exports = {
-    basePath: '/yasserraahiimi', // Replace with your GitHub repo name
-  };
-  
+module.exports = nextConfig;
