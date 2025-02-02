@@ -339,10 +339,10 @@ export default function Home() {
                     </h2>
                     <p data-aos="fade-up" className="my-6">Thank you for visiting my portfolio! If you have any questions, inquiries, or collaboration opportunities, I’d love to hear from you. Please fill out the contact form or reach out through the provided social media links, and I’ll get back to you as soon as possible.</p>
 
-                    <ul data-aos="fade-up">
-                        <li className="my-2"><a className="flex gap-4 items-center" href="tel:+923153987478"><HiPhone className="bg-orange-500 text-white text-sm w-10 h-10 p-2 rounded-full flex items-center justify-center"/>  +92 3153987478</a></li>
-                        <li className="my-2"><a className="flex gap-4 items-center" href="mailto:codewithshabbir07@gmail.com"><HiMail className="bg-orange-500 text-white text-sm w-10 h-10 p-2 rounded-full flex items-center justify-center"/> codewithshabbir07@gmail.com</a></li>
-                        <li className="my-2"><a className="flex gap-4 items-center" target="_blank" href="https://github.com/codewithshabbir"> <FaGithub className="bg-orange-500 text-white text-sm w-10 h-10 p-2 rounded-full flex items-center justify-center"/> codewithshabbir</a></li>
+                  <ul data-aos="fade-up">
+                        <li className="my-2"><a className="flex gap-4 items-center" href="tel:+923413975290"><HiPhone className="bg-orange-500 text-white text-sm w-10 h-10 p-2 rounded-full flex items-center justify-center"/>  +92 3413975290</a></li>
+                        <li className="my-2"><a className="flex gap-4 items-center" href="mailto:yasserraahimi0351@gmail.com"><HiMail className="bg-orange-500 text-white text-sm w-10 h-10 p-2 rounded-full flex items-center justify-center"/> yasserraahimi0351@gmail.com</a></li>
+                        <li className="my-2"><a className="flex gap-4 items-center" target="_blank" href="https://github.com/yasserraahiimi"> <FaGithub className="bg-orange-500 text-white text-sm w-10 h-10 p-2 rounded-full flex items-center justify-center"/> yasserraahiimi</a></li>
                     </ul>
                 </div>
                 <div className="col-span-12 md:col-span-6 flex justify-center">
