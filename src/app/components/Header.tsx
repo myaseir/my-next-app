@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
-import logo from "/public/images/techGlacia.png";
+
 import { HiOutlineMenu, HiOutlineX } from 'react-icons/hi';
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -92,7 +92,7 @@ const Header: React.FC = () => {
           </ul>
           <div className="logo flex items-center">
             <a href="#">
-{/*               <Image src={logo} alt="Logo" height={80} /> */}
+
             </a>
           </div>
           <ul className="flex items-center">
