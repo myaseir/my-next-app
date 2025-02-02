@@ -32,8 +32,8 @@ const lufga = localFont({
 
 // Define metadata
 export const metadata: Metadata = {
-  title: "CodeWithShabbir - Portfolio",
-  description: "Welcome to Shabbir's portfolio website. Explore projects, web development skills, and coding expertise.",
+  title: "Yasir - Portfolio",
+  description: "Welcome to Yasir's portfolio website. Explore projects, web development skills, and coding expertise.",
 };
 
 // Root Layout Component
