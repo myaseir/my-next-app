@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
               <ul className="social-icons-container flex gap-3 items-center relative">
                 <li className="group relative border-2 border-white rounded-full">
                   <a
-                    href="https://github.com/codewithshabbir"
+                    href="https://github.com/techglacia"
                     className="social-link github relative w-10 h-10 text-white flex items-center justify-center rounded-full overflow-hidden"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -71,7 +71,7 @@ const Footer: React.FC = () => {
                 </li>
                 <li className="relative border-2 border-white rounded-full">
                   <a
-                    href="https://codepen.io/codewithshabbir"
+                    href="https://codepen.io/yasir"
                     className="social-link codepen relative w-10 h-10 text-white flex items-center justify-center rounded-full overflow-hidden"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -94,9 +94,9 @@ const Footer: React.FC = () => {
           </div>
           <p className="text-center py-5 text-white text-sm">
             © <span id="copyrightCurrentYear" className="mr-1">2024</span> 
-            <b className="font-bold">Muhammad Shabbir</b>. All Rights Reserved. 
+            <b className="font-bold">Muhammad Yasir</b>. All Rights Reserved. 
             <br />
-            <a href="https://www.linkedin.com/in/codewithshabbir/" 
+            <a href="https://www.linkedin.com/in/muhammad-yasir/" 
               className="text-orange-500 hover:text-orange-400 font-medium"
               target="_blank" 
               rel="noopener noreferrer">
