@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
             <div className="col-span-12 lg:col-span-4">
               <div className="logo">
                 <a href="#">
-                  <Image src={logo} alt="Logo" />
+                  <Image src="" alt="Logo" />
                 </a>
                 <p className="text-gray-300 text-sm">
                   Hi, I'm Muhammad Yasir, a passionate web developer with expertise in creating modern, responsive websites. With a strong background in HTML, CSS, JavaScript, and WordPress, I specialize in delivering high-quality web solutions. Explore my portfolio to see my latest projects and get in touch for collaborations!
@@ -43,16 +43,16 @@ const Footer: React.FC = () => {
                 </li>
                 <li className="flex items-center gap-2 pb-2 leading-6">
                   <FaGlobe className="text-white" />
-                  <a className="text-sm text-gray-300" href="https://codewithshabbir.vercel.app/">My Website</a>
+                  <a className="text-sm text-gray-300" href="https://my-next-app-iota-mocha.vercel.app/">My Website</a>
                 </li>
                 <li className="flex items-center gap-2 pb-2 leading-6">
                   <FaEnvelope className="text-white" />
-                  <a className="text-sm text-gray-300" href="mailto:techglacia@gmail.com">techglacia@gmail.com
+                  <a className="text-sm text-gray-300" href="mailto:myaseir404@gmail.com">techglacia@gmail.com
                   </a>
                 </li>
                 <li className="flex items-center gap-2 pb-2 leading-6">
                   <FaMap className="text-white" />
-                  <p className="text-sm text-gray-300">Karachi, Pakistan</p>
+                  <p className="text-sm text-gray-300">Skardu, Pakistan</p>
                 </li>
               </ul>
             </div>
@@ -61,7 +61,7 @@ const Footer: React.FC = () => {
               <ul className="social-icons-container flex gap-3 items-center relative">
                 <li className="group relative border-2 border-white rounded-full">
                   <a
-                    href="https://github.com/techglacia"
+                    href="https://github.com/myaseir"
                     className="social-link github relative w-10 h-10 text-white flex items-center justify-center rounded-full overflow-hidden"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -81,7 +81,7 @@ const Footer: React.FC = () => {
                 </li>
                 <li className="relative border-2 border-white rounded-full">
                   <a
-                    href="https://www.linkedin.com"
+                    href="https://www.linkedin.com/in/muhammad-yasir-97b71524a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                     className="social-link linkedin relative w-10 h-10 text-white flex items-center justify-center rounded-full overflow-hidden"
                     target="_blank"
                     rel="noopener noreferrer"
