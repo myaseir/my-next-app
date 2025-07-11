@@ -1,10 +1,10 @@
 import Image from "next/image";
-import bannerModel from "/public/images/yasir.png";
+import bannerModel from "/public/images/yasirlogo.jpeg";
 import upRightArrow from "/public/images/up-right.svg";
 import servicesBg from "/public/images/services-bg.png";
 import aboutMe from "/public/images/aboutyasir.jpeg";
 import helloTop from "/public/images/hello-top.svg";
-import nameBottom from "/public/images/yasirlogo.jpeg";
+
 import { FaGithub } from 'react-icons/fa';
 import { FaDownload } from "react-icons/fa6";
 import { HiAcademicCap, HiBriefcase, HiBookOpen, HiPhone, HiMail } from 'react-icons/hi';
@@ -33,7 +33,7 @@ export default function Home() {
                         <h1 className="animate-fade-right cursor-scale text-2xl xs:text-4xl sm:text-5xl lg:text-6xl font-bold text-center tracking-wide word leading-tight">I'm <span className=" stroke-orange-500">Muhammad Yasir,</span> <br/>
                             Web Developer
                         </h1>
-                        <Image className="animate-fade-right absolute -bottom-12 -left-4 xs:left-0 sm:left-3 lg:left-4 w-[55px] sm:w-[60px] lg:w-auto" src={nameBottom} alt=""/>
+                       
                     </div>
                 </div>
                 <div className="flex flex-col items-center relative -mt-10 sm:-mt-16 mb-0">
