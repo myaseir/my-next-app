@@ -4,7 +4,7 @@ import upRightArrow from "/public/images/up-right.svg";
 import servicesBg from "/public/images/services-bg.png";
 import aboutMe from "/public/images/aboutyasir.jpeg";
 import helloTop from "/public/images/hello-top.svg";
-import nameBottom from "/public/images/public/images/yasirlogo.jpeg";
+import nameBottom from "/public/images/yasirlogo.jpeg";
 import { FaGithub } from 'react-icons/fa';
 import { FaDownload } from "react-icons/fa6";
 import { HiAcademicCap, HiBriefcase, HiBookOpen, HiPhone, HiMail } from 'react-icons/hi';
